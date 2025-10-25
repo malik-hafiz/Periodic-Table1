@@ -1,0 +1,86 @@
+.container{
+    margin: 100px auto;
+    width: 900px;
+
+}
+h1{
+    text-align: center;
+    color: rgb(17, 51, 109);
+    background-color: rgb(255, 180, 19);
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+td {
+  width: 40px;
+  height: 40px;
+}
+.r3{
+    empty-cells: hide;
+}
+.bn{
+    border: none;
+    text-align: center;
+    font-size: large;
+}
+.empty{
+    empty-cells: hide;
+}
+.color{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.cgl{
+    background-color: rgb(34, 170, 34);
+    color: white;
+    border: green;
+}
+.co{
+    background-color: orangered;
+    color: white;
+    border: orangered;
+}
+.cg{
+    background-color: rgb(23, 145, 108);
+    color: white;
+    border: rgb(23, 145, 108);
+}
+.cy{
+    background-color: rgb(212, 212, 18);
+    color: white;
+    border: rgb(173, 173, 12);
+}
+.cr{
+    background-color: red;
+    color: white;
+    border: red;
+}
+.cb{
+    background-color: rgb(29, 114, 224);
+    color: white;
+    border: rgb(29, 114, 224);
+}
+.cp{
+    background-color: rgb(99, 45, 150);
+    color: white;
+    border: rgb(99, 45, 150);
+}
+.cgray{
+    background-color: gray;
+    color: white;
+    border: gray;
+}
+.cd{
+    background-color: rgb(37, 37, 78);
+    color: white;
+    border: rgb(37, 37, 78);
+}
+.cred{
+    background-color: rgb(224, 19, 53);
+    color: white;
+    border: rgb(224, 19, 53);
+}
+span{
+    font-size: 10px;
+}
